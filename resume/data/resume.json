@@ -15,7 +15,7 @@
     "social":[
         {
             "type": "github",
-            "link": "https://github.com/Jayin",
+            "link": "https://github.com/Wuuumouren",
             "icon": ""
         },
         {
@@ -35,7 +35,7 @@
         },
         {
             "type": "home",
-            "link": "https://github.com/Jayin",
+            "link": "https://github.com/Wuuumouren",
             "icon": ""
         }
     ],
@@ -77,16 +77,16 @@
             "icon": "",
             "description": "成为无业游民",
             "time": "",
-            "location": "广东 江门"
+            "location": "河北 保定"
         }
     ],
     "ProjectExperience": [
         {
-            "name": "XTips",
+            "name": "各种管理系统",
             "name_link": "https://github.com/Jayin",
-            "title": "Android App, 作者",
+            "title": "web系统 作者",
             "icon": "",
-            "description": "中山大学校园助手，2一键导入课程表/图书检索、收藏/及时获取校园资讯/查空课室/电费, 已为7+K同学服务",
+            "description": "没有描述",
             "time": "2013.07 - 至今",
             "location": ""
         },
