@@ -3,7 +3,7 @@
     "background_image": "https://9to5mac.files.wordpress.com/2014/08/yosemite-3.jpg?w=1200&h=&crop=1",
     "basicinfo": {
         "name": "吴则昊",
-        "description": "0.0",
+        "description": "偶然路过的假面骑士",
         "school": "石家庄铁道大学",
         "profession": "软件工程",
         "sex": "男",
@@ -41,11 +41,18 @@
     ],
     "Awards": [
         {
-            "name": "无"
+            "name": "二等奖学金"
         },
         {
-            "name": ""
+            "name": "蓝桥杯省赛三等奖"
+        },
+        {
+            "name": "校级大创结项"
+        },
+        {
+            "name": "石家庄铁道大学2021年 校级优秀志愿者"
         }
+    
       
     ],
     "socialExperiences": [
