@@ -56,14 +56,24 @@
     ],
     "socialExperiences": [
         {
-            "name": "无",
+            "name": "前端",
             "name_link": "no",
-            "description": "不知道"
+            "description": "Vue html5 JavaScript React（仍在学习）"
         },
         {
-            "name": "无",
-            "name_link": "https://github.com/Jayin",
-            "description": "无"
+            "name": "后端",
+            "name_link": "",
+            "description": "Python Java C++ C SpringBoot SpringCloud 微服务"
+        },
+        {
+            "name": "大数据",
+            "name_link": "",
+            "description": "Hadoop Spark Kafka redis mangoDB "
+        }，
+        {
+               "name": "机器学习",
+            "name_link": "",
+            "description": "使用Keras、PyTorch、TensorFlow等库复现过部分经典论文"
         }
     ],
     "InternExperiences": [
@@ -92,31 +102,31 @@
             "name_link": "https://github.com/Jayin",
             "title": "web系统 作者",
             "icon": "",
-            "description": "没有描述",
+            "description": "经典永远时尚",
             "time": "2021.07 - 至今",
             "location": ""
         },
         {
-            "name": "XX技能培训中心",
+            "name": "校级大创 app 知友",
             "name_link": "",
-            "title": "Android App/PHP后端, 项目负责人",
+            "title": "Android App/微服务后端",
             "icon": "",
-            "description": "主要负责PHP后端，采用ThinkPHP框架实现一个CMS、已经App广告管理后台；同时也负责Android端基础搭建",
+            "description": "主要负责前端页面编写，采用框架实现一个论坛后台；同时也负责Android端基础搭建",
             "time": "2014.08 - 2014.12",
             "location": ""
         },
         {
-            "name": "silentor",
+            "name": "智能排班系统",
             "name_link": "https://github.com/Jayin/silentor",
-            "title": "JavaScript, forker",
+            "title": "微服务 Vue Python",
             "icon": "",
-            "description": "纯前端，基于markdown的博客",
-            "time": "2014.10 - 至今",
+            "description": "主要负责扣6 并且围观",
+            "time": "2023.4 - 2023.6",
             "location": ""
         },
         {
             "name": "更多",
-            "name_link": "https://github.com/Jayin",
+            "name_link": "https://www.cnblogs.com/jiankaitianmen/",
             "title": "",
             "icon": "",
             "description": "",
