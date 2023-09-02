@@ -99,7 +99,7 @@
     "ProjectExperience": [
         {
             "name": "各种管理系统",
-            "name_link": "https://github.com/Jayin",
+            "name_link": "https://github.com",
             "title": "web系统 作者",
             "icon": "",
             "description": "经典永远时尚",
@@ -117,10 +117,19 @@
         },
         {
             "name": "智能排班系统",
-            "name_link": "https://github.com/Jayin/silentor",
+            "name_link": "https://github.com",
             "title": "微服务 Vue Python",
             "icon": "",
             "description": "主要负责扣6 并且围观",
+            "time": "2023.4 - 2023.6",
+            "location": ""
+        },
+           {
+            "name": "基于深度学习的智能聊天与分析系统",
+            "name_link": "https://github.com",
+            "title": "深度学习 Vue Springboot OneBot协议 大数据",
+            "icon": "",
+            "description": "主要负责没写的部分的幻想",
             "time": "2023.4 - 2023.6",
             "location": ""
         },
